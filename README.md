@@ -4,7 +4,3 @@
 
 
 
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ezzeldinkadry/-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ezzeldinkadry/-dark-mode-only)
-&nbsp;&nbsp;
