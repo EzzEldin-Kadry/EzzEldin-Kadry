@@ -8,6 +8,8 @@
 &nbsp;&nbsp;
 [![website](./img/outlook-email.svg)](mailto:EzzEldinKadry@Outlook.sa)
 &nbsp;&nbsp;
+[![website](./img/Facebook_icon-icons.com_66805.svg)](https://www.facebook.com/EzzEldinKadry/)
+&nbsp;&nbsp;
 &nbsp;&nbsp;
 
 ### Programming Lanuages: 
@@ -29,3 +31,8 @@
 ### Learning In Progress: 
 <img align="left" alt=".Net Core" width="26px" src="./img/NET_Core_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="NoSql MongoDB" width="26px" src="./img/mongodb_original_wordmark_logo_icon_146425.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="./img/js_official_icon_130509.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML" width="26px" src="./img/html_icon_130541.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS" width="26px" src="./img/css_icon_130661.svg" style="padding-right:10px;" />
+&nbsp;&nbsp;
+&nbsp;&nbsp;
