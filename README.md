@@ -2,6 +2,8 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/EzzEldinKadry?theme=unicorn&font=Concert%20One&ext=contest)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezzeldin-Kadry&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me: 
 
 [![website](./img/linked-in-icon00.svg)](https://www.linkedin.com/in/ezzeldinkadry/-light-mode-only)
