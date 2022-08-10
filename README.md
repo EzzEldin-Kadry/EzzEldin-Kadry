@@ -24,8 +24,8 @@
 ### Tools: 
 <img align="left" alt="Visual Studio" width="26px" src="./img/Visual_Studio_icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/visual-studio-code-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="26px" src="./img/sql_icon_216977.svg" style="padding-right:10px;" />
-<img align="left" alt="Unity" width="26px" src="./img/unity_icon_136074.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="26px" src="./img/Microsoft_Sql_Server_Icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Unity" width="26px" src="./img/Unity_Icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="26px" src="./img/blender_103868.svg" style="padding-right:10px;" />
 &nbsp;&nbsp;
 &nbsp;&nbsp;
