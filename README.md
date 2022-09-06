@@ -25,12 +25,17 @@
 
 ### Techs & Tools: 
 <img align="left" alt=".Net Core" width="26px" src="./img/NET_Core_Logo.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML" width="26px" src="./img/html_icon_130541.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="26px" src="./img/Visual_Studio_icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/visual-studio-code-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="40px" src="./img/microsoft-sql-server-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Unity" width="26px" src="./img/Unity_Icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="26px" src="./img/blender-icon.svg" style="padding-right:10px;" />
+
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+
+### Front: 
+<img align="left" alt="HTML" width="26px" src="./img/html_icon_130541.svg" style="padding-right:10px;" />
 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
@@ -41,3 +46,5 @@
 <img align="left" alt="CSS" width="26px" src="./img/css_icon_130661.svg" style="padding-right:10px;" />
 &nbsp;&nbsp;
 &nbsp;&nbsp;
+
+
