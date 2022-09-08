@@ -4,7 +4,7 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/EzzEldinKadry?theme=unicorn&font=Concert%20One&ext=contest)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezzeldin-Kadry&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezzeldin-Kadry&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me: 
 
