@@ -30,13 +30,7 @@
 <img align="left" alt="SQL" width="40px" src="./img/microsoft-sql-server-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Unity" width="26px" src="./img/Unity_Icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="26px" src="./img/blender-icon.svg" style="padding-right:10px;" />
-
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-
-### Front: 
 <img align="left" alt="HTML" width="26px" src="./img/html_icon_130541.svg" style="padding-right:10px;" />
-
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 
