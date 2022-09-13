@@ -12,8 +12,6 @@
 &nbsp;&nbsp;
 [![website](./img/outlook-email.svg)](mailto:EzzEldinKadry@Outlook.sa)
 &nbsp;&nbsp;
-[![website](./img/Facebook_icon-icons.com_66805.svg)](https://www.facebook.com/EzzEldinKadry/)
-&nbsp;&nbsp;
 &nbsp;&nbsp;
 
 ### Programming Lanuages: 
