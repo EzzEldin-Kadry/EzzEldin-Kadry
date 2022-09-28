@@ -30,7 +30,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/visual-studio-code-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Unity" width="26px" src="./img/Unity_Icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="26px" src="./img/blender-icon.svg" style="padding-right:10px;" />
-
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 
