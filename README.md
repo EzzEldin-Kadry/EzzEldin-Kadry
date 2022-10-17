@@ -11,7 +11,7 @@
 <img align="left" alt="C#" width="26px" src="./img/csharp_original_logo_icon_146578.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="./img/java_original_wordmark_logo_icon_146459.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="./img/python_104451.svg" style="padding-right:10px;" />
-
+<img align="left" alt="JavaScript" width="26px" src="./img/js_official_icon_130509.svg" style="padding-right:10px;" />
 
 <img align="left" alt=".Net Core" width="26px" src="./img/NET_Core_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML" width="26px" src="./img/html_icon_130541.svg" style="padding-right:10px;" />
@@ -21,7 +21,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="./img/visual-studio-code-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Unity" width="26px" src="./img/Unity_Icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="26px" src="./img/blender-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="./img/js_official_icon_130509.svg" style="padding-right:10px;" />
+
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 
