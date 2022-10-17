@@ -6,7 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezzeldin-Kadry&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-### Connect with me: 
+### Want to contact me ? 
 
 [![website](./img/linked-in-icon00.svg)](https://www.linkedin.com/in/ezzeldinkadry/-light-mode-only)
 &nbsp;&nbsp;
