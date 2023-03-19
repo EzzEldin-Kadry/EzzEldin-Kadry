@@ -27,14 +27,8 @@
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 
-### POTENTIAL SKILLS? : 
-<img align="left" alt="NoSql MongoDB" width="26px" src="./img/mongodb_original_wordmark_logo_icon_146425.svg" style="padding-right:10px;" />
-&nbsp;&nbsp;
-&nbsp;&nbsp;
 
-
-
-### Want to contact me? :
+### Contacts
 
 [![website](./img/linked-in-icon00.svg)](https://www.linkedin.com/in/ezzeldinkadry/-light-mode-only)
 &nbsp;&nbsp;
