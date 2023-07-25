@@ -1,12 +1,21 @@
-# EzzEldin Kadry
+## Welcome :robot:!
+- Hi, I'm Ezzeldin Kadry :handshake:
+- Computer Science graduate :mortar_board:	
+- A passionate problem solver 💻
+- A backend developer with  <img alt=".Net Core" width="20px" src="./img/NET_Core_Logo.svg" style="padding-right:2px;" />
+- Currently looking for my first full-time opportunity :man_technologist:	
 
-![](https://komarev.com/ghpvc/?username=EzzEldin-Kadry&color=blueviolet&style=for-the-badge	)
+---
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/EzzEldinKadry?theme=unicorn&font=Concert%20One&ext=contest)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,wasm,java,py,mongodb,unity,visualstudio,vscode,blender&perline=10)](https://skillicons.dev)
+
+
+<!--
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezzeldin-Kadry&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-
+/*
 ### SKILLS: 
 <img align="left" alt="C#" width="26px" src="./img/csharp_original_logo_icon_146578.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="./img/java_original_wordmark_logo_icon_146459.svg" style="padding-right:10px;" />
@@ -27,7 +36,7 @@
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 
-
+-->
 ### Contacts
 
 [![website](./img/linked-in-icon00.svg)](https://www.linkedin.com/in/ezzeldinkadry/-light-mode-only)
@@ -35,4 +44,7 @@
 [![website](./img/outlook-email.svg)](mailto:EzzEldinKadry@Outlook.sa)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
+---
+![](https://komarev.com/ghpvc/?username=EzzEldin-Kadry&color=blueviolet&style=for-the-badge	)
+
 
