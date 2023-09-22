@@ -8,7 +8,7 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/EzzEldinKadry?theme=unicorn&font=Concert%20One&ext=contest)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,wasm,java,py,mongodb,unity,visualstudio,vscode,blender,git&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,wasm,java,py,mongodb,unity,visualstudio,vscode,blender,git,rabbitmq&perline=10)](https://skillicons.dev)
 
 
 <!--
