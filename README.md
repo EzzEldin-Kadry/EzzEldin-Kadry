@@ -2,8 +2,7 @@
 - Hi, I'm Ezzeldin Kadry :handshake:
 - Computer Science graduate :mortar_board:	
 - A passionate problem solver 💻
-- A backend developer with  <img alt=".Net Core" width="20px" src="./img/NET_Core_Logo.svg" style="padding-right:2px;" />
-- Currently looking for my first full-time opportunity :man_technologist:	
+- A backend developer with  <img alt=".Net Core" width="20px" src="./img/NET_Core_Logo.svg" style="padding-right:2px;" /> :man_technologist:	
 
 ---
 
